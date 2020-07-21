@@ -1,0 +1,27 @@
+{
+  "name": "html-generator",
+  "version": "1.0.0",
+  "description": "generates html pages for employees",
+  "main": "Index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^7.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaaybe/HTML-Generator.git"
+  },
+  "author": "JB Blot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaaybe/HTML-Generator/issues"
+  },
+  "homepage": "https://github.com/jaaybe/HTML-Generator#readme"
+}
